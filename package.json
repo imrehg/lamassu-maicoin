@@ -1,0 +1,28 @@
+{
+  "name": "lamassu-maicoin",
+  "version": "0.0.1",
+  "description": "Lamassu Maicoin ticker",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imrehg/lamassu-maicoin.git"
+  },
+  "keywords": [
+    "Lamassu",
+    "Maicoin",
+    "Bitcoin"
+  ],
+  "author": "Gergely Imreh <imrehg@gmail.com>",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/imrehg/lamassu-maicoin/issues"
+  },
+  "devDependencies": {
+    "tap": "~0.4.11"
+  },
+  "dependencies": {
+  }
+}
